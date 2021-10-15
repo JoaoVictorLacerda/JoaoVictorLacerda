@@ -1,4 +1,4 @@
-### Olá 👋
+### Hello, guys 👋
 
 <div>
   <a href="https://github.com/JoaoVictorLacerda">
